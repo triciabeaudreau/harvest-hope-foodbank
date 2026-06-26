@@ -1,0 +1,54 @@
+Harvest Hope Community Food Bank  |  Food Item Catalog,,,,,
+Reference only — do not edit. Item IDs are used by the Donations Log and Distribution History sheets.,,,,,
+,,,,,
+Item ID,Item Name,Category,Unit of Measure,Shelf Life (Days),Priority Level
+FI001,Canned Tuna,Canned Protein,Can (5 oz),1095,High
+FI002,Canned Chicken,Canned Protein,Can (12.5 oz),1095,High
+FI003,Canned Salmon,Canned Protein,Can (14.75 oz),1095,High
+FI004,Canned Black Beans,Canned Protein,Can (15 oz),1095,High
+FI005,Canned Kidney Beans,Canned Protein,Can (15 oz),1095,Medium
+FI006,Canned Chickpeas,Canned Protein,Can (15 oz),1095,Medium
+FI007,Peanut Butter,Canned Protein,Jar (16 oz),365,High
+FI008,Canned Corn,Canned Vegetables,Can (15 oz),1095,Medium
+FI009,Canned Green Beans,Canned Vegetables,Can (14.5 oz),1095,Medium
+FI010,Canned Peas,Canned Vegetables,Can (15 oz),1095,Medium
+FI011,Canned Diced Tomatoes,Canned Vegetables,Can (14.5 oz),1095,Medium
+FI012,Canned Mixed Vegetables,Canned Vegetables,Can (15 oz),1095,Low
+FI013,Canned Peaches,Canned Fruit,Can (15 oz),1095,Low
+FI014,Canned Pears,Canned Fruit,Can (15 oz),1095,Low
+FI015,Canned Mandarin Oranges,Canned Fruit,Can (11 oz),1095,Low
+FI016,White Rice (5 lb),Dry Goods,Bag (5 lb),730,High
+FI017,Brown Rice (5 lb),Dry Goods,Bag (5 lb),365,Medium
+FI018,Pasta - Spaghetti,Dry Goods,Box (16 oz),730,High
+FI019,Pasta - Penne,Dry Goods,Box (16 oz),730,High
+FI020,Instant Oatmeal,Dry Goods,Box (18 oz),365,High
+FI021,All-Purpose Flour (5 lb),Dry Goods,Bag (5 lb),365,Medium
+FI022,Cornmeal (2 lb),Dry Goods,Bag (2 lb),365,Low
+FI023,Breakfast Cereal,Breakfast,Box (18 oz),365,High
+FI024,Pancake Mix,Breakfast,Box (32 oz),365,Medium
+FI025,Granola Bars,Breakfast,Box (8 bars),180,Medium
+FI026,Canned Chicken Noodle Soup,Soups & Meals,Can (10.75 oz),1095,High
+FI027,Canned Tomato Soup,Soups & Meals,Can (10.75 oz),1095,Medium
+FI028,Canned Vegetable Soup,Soups & Meals,Can (19 oz),1095,Medium
+FI029,Canned Chili with Beans,Soups & Meals,Can (15 oz),1095,High
+FI030,Canned Beef Stew,Soups & Meals,Can (20 oz),1095,Medium
+FI031,Infant Formula (Powder),Baby & Infant,Can (12.4 oz),365,Critical
+FI032,Baby Food - Vegetable,Baby & Infant,Jar (4 oz),365,High
+FI033,Baby Food - Fruit,Baby & Infant,Jar (4 oz),365,High
+FI034,Diapers - Size 1-2,Baby & Infant,Pack (36 ct),1825,High
+FI035,Diapers - Size 3-4,Baby & Infant,Pack (32 ct),1825,High
+FI036,Milk (1 gallon),Dairy & Refrigerated,Gallon,14,High
+FI037,Eggs (1 dozen),Dairy & Refrigerated,Dozen,35,High
+FI038,Cheddar Cheese (block),Dairy & Refrigerated,Block (16 oz),60,Medium
+FI039,White Sandwich Bread,Bread & Bakery,Loaf,7,High
+FI040,Whole Wheat Bread,Bread & Bakery,Loaf,7,High
+FI041,Flour Tortillas,Bread & Bakery,Pack (20 ct),30,Medium
+FI042,Apples,Fresh Produce,Bag (3 lb),21,Medium
+FI043,Bananas,Fresh Produce,Bunch (~7),10,Medium
+FI044,Baby Carrots,Fresh Produce,Bag (1 lb),21,Medium
+FI045,Potatoes (5 lb),Fresh Produce,Bag (5 lb),60,High
+FI046,Yellow Onions (3 lb),Fresh Produce,Bag (3 lb),30,Medium
+FI047,Apple Juice (64 oz),Beverages,Bottle (64 oz),365,Medium
+FI048,Orange Juice (64 oz),Beverages,Bottle (64 oz),14,Medium
+FI049,Cooking Oil (32 oz),Pantry Staples,Bottle (32 oz),365,Medium
+FI050,Pasta Sauce,Pantry Staples,Jar (24 oz),730,Medium

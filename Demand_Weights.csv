@@ -1,0 +1,17 @@
+Harvest Hope Community Food Bank  |  Pantry Demand Weights  (Reference),,,,,,,
+"These weights drive the AI recommendation engine. 1.0 = maximum need, 0.0 = not needed.",,,,,,,
+,,,,,,,
+Category,PP001,PP002,PP003,PP004,Best Pantry ID,Best Pantry Name,Best Weight
+,Riverside Community Pantry,St. Augustine's Shelter Pantry,Maplewood Senior Center,Oakdale School Family Pantry,,,
+Baby & Infant,0.60,0.20,0.00,0.85,PP004,Oakdale School Family Pantry,0.85
+Beverages,0.70,0.90,0.80,0.85,PP002,St. Augustine's Shelter Pantry,0.90
+Bread & Bakery,0.95,1.00,0.90,0.90,PP002,St. Augustine's Shelter Pantry,1.00
+Breakfast,0.80,0.90,0.85,0.95,PP004,Oakdale School Family Pantry,0.95
+Canned Fruit,0.70,0.60,0.85,0.90,PP004,Oakdale School Family Pantry,0.90
+Canned Protein,0.90,0.95,0.80,0.85,PP002,St. Augustine's Shelter Pantry,0.95
+Canned Vegetables,0.80,0.70,0.90,0.80,PP003,Maplewood Senior Center,0.90
+Dairy & Refrigerated,0.90,0.70,0.85,0.95,PP004,Oakdale School Family Pantry,0.95
+Dry Goods,0.90,0.85,0.70,0.90,PP001,Riverside Community Pantry,0.90
+Fresh Produce,0.85,0.70,0.80,0.90,PP004,Oakdale School Family Pantry,0.90
+Pantry Staples,0.80,0.75,0.70,0.75,PP001,Riverside Community Pantry,0.80
+Soups & Meals,0.85,0.95,0.90,0.75,PP002,St. Augustine's Shelter Pantry,0.95
