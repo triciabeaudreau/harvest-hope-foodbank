@@ -1,0 +1,54 @@
+Harvest Hope Community Food Bank  |  AI Distribution Recommendations,,,,,,,,,,,
+Auto-calculated from Current Inventory and Demand Weights. Sort by Priority Score (col K) to see most urgent items. Refreshes whenever inventory changes.,,,,,,,,,,,
+,,,,,,,,,,,
+Item ID,Item Name,Category,Priority,Qty on Hand,Soonest Expiry,Days Until Expiry,Expiry Status,Best Pantry,Suggested Qty,Priority Score,Recommended Action
+FI001,Canned Tuna,Canned Protein,High,615,07/04/2027,373,OK,St. Augustine's Shelter Pantry,12,37,STANDARD - Distribute when ready
+FI002,Canned Chicken,Canned Protein,High,218,06/30/2027,369,OK,St. Augustine's Shelter Pantry,5,37,STANDARD - Distribute when ready
+FI003,Canned Salmon,Canned Protein,High,297,04/12/2027,290,OK,St. Augustine's Shelter Pantry,5,37,STANDARD - Distribute when ready
+FI004,Canned Black Beans,Canned Protein,High,545,04/09/2027,287,OK,St. Augustine's Shelter Pantry,8,37,STANDARD - Distribute when ready
+FI005,Canned Kidney Beans,Canned Protein,Medium,"1,382",02/18/2027,237,OK,St. Augustine's Shelter Pantry,14,37,STANDARD - Distribute when ready
+FI006,Canned Chickpeas,Canned Protein,Medium,"1,120",02/15/2027,234,OK,St. Augustine's Shelter Pantry,12,37,STANDARD - Distribute when ready
+FI007,Peanut Butter,Canned Protein,High,"1,110",01/19/2027,207,OK,St. Augustine's Shelter Pantry,10,37,STANDARD - Distribute when ready
+FI008,Canned Corn,Canned Vegetables,Medium,"1,056",01/09/2027,197,OK,Maplewood Senior Center,9,35,STANDARD - Distribute when ready
+FI009,Canned Green Beans,Canned Vegetables,Medium,982,12/20/2026,177,OK,Maplewood Senior Center,11,35,STANDARD - Distribute when ready
+FI010,Canned Peas,Canned Vegetables,Medium,"1,224",12/01/2026,158,OK,Maplewood Senior Center,16,35,STANDARD - Distribute when ready
+FI011,Canned Diced Tomatoes,Canned Vegetables,Medium,735,11/27/2026,154,OK,Maplewood Senior Center,5,35,STANDARD - Distribute when ready
+FI012,Canned Mixed Vegetables,Canned Vegetables,Low,725,11/24/2026,151,OK,Maplewood Senior Center,6,35,STANDARD - Distribute when ready
+FI013,Canned Peaches,Canned Fruit,Low,637,11/14/2026,141,OK,Oakdale School Family Pantry,8,35,STANDARD - Distribute when ready
+FI014,Canned Pears,Canned Fruit,Low,"1,211",11/11/2026,138,OK,Oakdale School Family Pantry,5,35,STANDARD - Distribute when ready
+FI015,Canned Mandarin Oranges,Canned Fruit,Low,"1,005",11/03/2026,130,OK,Oakdale School Family Pantry,13,35,STANDARD - Distribute when ready
+FI016,White Rice (5 lb),Dry Goods,High,"1,829",11/01/2026,128,OK,Riverside Community Pantry,14,35,STANDARD - Distribute when ready
+FI017,Brown Rice (5 lb),Dry Goods,Medium,765,10/18/2026,114,OK,Riverside Community Pantry,5,35,STANDARD - Distribute when ready
+FI018,Pasta - Spaghetti,Dry Goods,High,837,10/18/2026,114,OK,Riverside Community Pantry,9,35,STANDARD - Distribute when ready
+FI019,Pasta - Penne,Dry Goods,High,"1,291",10/04/2026,100,OK,Riverside Community Pantry,12,35,STANDARD - Distribute when ready
+FI020,Instant Oatmeal,Dry Goods,High,"1,206",10/03/2026,99,OK,Riverside Community Pantry,18,35,STANDARD - Distribute when ready
+FI021,All-Purpose Flour (5 lb),Dry Goods,Medium,"1,567",09/23/2026,89,OK,Riverside Community Pantry,20,35,STANDARD - Distribute when ready
+FI022,Cornmeal (2 lb),Dry Goods,Low,736,08/25/2026,60,OK,Riverside Community Pantry,5,35,STANDARD - Distribute when ready
+FI023,Breakfast Cereal,Breakfast,High,503,08/07/2026,42,OK,Oakdale School Family Pantry,12,37,STANDARD - Distribute when ready
+FI024,Pancake Mix,Breakfast,Medium,560,07/27/2026,31,OK,Oakdale School Family Pantry,7,37,STANDARD - Distribute when ready
+FI025,Granola Bars,Breakfast,Medium,551,07/27/2026,31,OK,Oakdale School Family Pantry,6,37,STANDARD - Distribute when ready
+FI026,Canned Chicken Noodle Soup,Soups & Meals,High,119,07/17/2026,21,NOTICE,St. Augustine's Shelter Pantry,5,45,STANDARD - Distribute when ready
+FI027,Canned Tomato Soup,Soups & Meals,Medium,216,07/17/2026,21,NOTICE,St. Augustine's Shelter Pantry,5,45,STANDARD - Distribute when ready
+FI028,Canned Vegetable Soup,Soups & Meals,Medium,815,07/12/2026,16,NOTICE,St. Augustine's Shelter Pantry,5,45,STANDARD - Distribute when ready
+FI029,Canned Chili with Beans,Soups & Meals,High,0,,,OUT OF STOCK,St. Augustine's Shelter Pantry,0,60,No stock available
+FI030,Canned Beef Stew,Soups & Meals,Medium,236,07/10/2026,14,NOTICE,St. Augustine's Shelter Pantry,8,55,STANDARD - Distribute when ready
+FI031,Infant Formula (Powder),Baby & Infant,Critical,0,,,OUT OF STOCK,Oakdale School Family Pantry,0,57,No stock available
+FI032,Baby Food - Vegetable,Baby & Infant,High,416,07/07/2026,11,NOTICE,Oakdale School Family Pantry,5,51,STANDARD - Distribute when ready
+FI033,Baby Food - Fruit,Baby & Infant,High,552,07/05/2026,9,NOTICE,Oakdale School Family Pantry,10,51,STANDARD - Distribute when ready
+FI034,Diapers - Size 1-2,Baby & Infant,High,0,,,OUT OF STOCK,Oakdale School Family Pantry,0,57,No stock available
+FI035,Diapers - Size 3-4,Baby & Infant,High,0,,,OUT OF STOCK,Oakdale School Family Pantry,0,57,No stock available
+FI036,Milk (1 gallon),Dairy & Refrigerated,High,94,07/03/2026,7,WARNING,Oakdale School Family Pantry,5,65,HIGH - Distribute this week
+FI037,Eggs (1 dozen),Dairy & Refrigerated,High,0,,,OUT OF STOCK,Oakdale School Family Pantry,0,60,No stock available
+FI038,Cheddar Cheese (block),Dairy & Refrigerated,Medium,169,07/01/2026,5,WARNING,Oakdale School Family Pantry,5,65,HIGH - Distribute this week
+FI039,White Sandwich Bread,Bread & Bakery,High,0,,,OUT OF STOCK,St. Augustine's Shelter Pantry,0,62,No stock available
+FI040,Whole Wheat Bread,Bread & Bakery,High,0,,,OUT OF STOCK,St. Augustine's Shelter Pantry,0,62,No stock available
+FI041,Flour Tortillas,Bread & Bakery,Medium,268,06/30/2026,4,WARNING,St. Augustine's Shelter Pantry,5,66,HIGH - Distribute this week
+FI042,Apples,Fresh Produce,Medium,275,06/29/2026,3,CRITICAL,Oakdale School Family Pantry,5,73,URGENT - Distribute TODAY
+FI043,Bananas,Fresh Produce,Medium,0,,,OUT OF STOCK,Oakdale School Family Pantry,0,59,No stock available
+FI044,Baby Carrots,Fresh Produce,Medium,160,06/28/2026,2,CRITICAL,Oakdale School Family Pantry,8,73,URGENT - Distribute TODAY
+FI045,Potatoes (5 lb),Fresh Produce,High,0,,,OUT OF STOCK,Oakdale School Family Pantry,0,59,No stock available
+FI046,Yellow Onions (3 lb),Fresh Produce,Medium,541,06/27/2026,1,CRITICAL,Oakdale School Family Pantry,8,73,URGENT - Distribute TODAY
+FI047,Apple Juice (64 oz),Beverages,Medium,0,,,OUT OF STOCK,St. Augustine's Shelter Pantry,0,59,No stock available
+FI048,Orange Juice (64 oz),Beverages,Medium,83,07/06/2026,10,NOTICE,St. Augustine's Shelter Pantry,5,53,STANDARD - Distribute when ready
+FI049,Cooking Oil (32 oz),Pantry Staples,Medium,0,,,OUT OF STOCK,Riverside Community Pantry,0,55,No stock available
+FI050,Pasta Sauce,Pantry Staples,Medium,0,,,OUT OF STOCK,Riverside Community Pantry,0,55,No stock available
