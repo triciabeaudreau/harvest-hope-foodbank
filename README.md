@@ -8,7 +8,7 @@
 A volunteer-friendly food bank management system built to demonstrate how AI can support charitable operations. Claude AI generated 12 months of realistic fictional data and built a dynamic Excel workbook for daily inventory tracking, paired with a 3-page Power BI dashboard for leadership reporting. The system tracks donations, distributions, expiry dates, and stock levels across 50 food items and 4 partner pantries — with live-updating formulas and urgency alerts that require no technical knowledge to operate.
 
 ## Excel Workbook
-`HarvestHope_FoodBank_Systemv1.xlsx` — 6-sheet workbook for volunteer data entry and inventory management
+`HarvestHope_FoodBank_System.xlsx` — 7-sheet workbook for volunteer data entry and inventory management
 
 | Sheet | Description |
 |-------|-------------|
@@ -18,6 +18,7 @@ A volunteer-friendly food bank management system built to demonstrate how AI can
 | Distribution History | Log of outgoing distributions to partner pantries (1,677 records) |
 | Food Catalog | Master list of 50 food items with categories and demand weights |
 | Partner Pantries | 4 partner pantry locations and contact information |
+| Demand Weights | Weighting table used for AI priority scoring |
 
 **Key formulas:**
 - Qty on Hand dynamically subtracts distributions from non-expired donations using SUMIFS
@@ -57,6 +58,13 @@ A volunteer-friendly food bank management system built to demonstrate how AI can
 - Leadership-ready dashboard design for charitable institution boards
 
 ## Files in This Repository
-- `HarvestHope_FoodBank_Systemv1.xlsx` — Full Excel workbook with 12 months of data and dynamic inventory formulas
-- `HarvestHope_FoodBank_Dashboard.pdf` — Full dashboard export (3 pages)
+- `HarvestHope_FoodBank_System.xlsx` – Full Excel workbook containing 12 months of sample data, formulas, and AI-driven inventory recommendations
+- `Current_Inventory.csv` – Current inventory levels, expiration dates, and available quantities
+- `AI_Recommendations.csv` – Suggested food allocations based on inventory and pantry demand
+- `Donations_Log.csv` – Historical record of donated items received by the food bank
+- `Distribution_History.csv` – Monthly distribution data for partner pantries
+- `Food_Catalog.csv` – Master list of food items and categories
+- `Partner_Pantries.csv` – Partner pantry information and service populations
+- `Demand_Weights.csv` – Priority weights used to estimate pantry demand
+- `HarvestHope_FoodBank_Dashboard.pdf` – Exported dashboard containing inventory, donation, and recommendation summaries
   
